@@ -1,9 +1,9 @@
-# Coding Journal
+# Coding Journal for CS121
 ## Module 1
 ### 2026-01-12
 This is a test of using Obsidian for a coding journal. This entry can be ignored.
 ### 2026-01-15
-#### Textbook writings
+#### Textbook notes
 Computer programs execute instructions **one at a time** -- they do not execute all at once, but they give the impression of it due to modern computer speeds
 
 **Inputs** are data that a program collects from the user (file uploads for example) or its environment (keyboards, touchscreens, network, etc.). Programs then process this data and generate an output
@@ -43,7 +43,7 @@ There are **three notable kinds of errors**: compile time errors (errors detecte
 There are also **warnings** which the compiler reports during its work, which won't prevent the program from being run, but may cause a runtime error.
 
 ### 2026-01-16
-#### Textbook writings
+#### Textbook notes
 The classic binary 0s and 1s are read by the computer where by the former are no voltage and the latter are positive voltage. These are also known as **bits**. Processors computer data, memory stores data (along with instructions).
 
 Writing in binary is what's known as writing **machine instructions**, and a sequence of these instructions is called an executable.
@@ -53,3 +53,9 @@ To correctly run programs using high-level languages, engineers created **compil
 Using this approach, executables can only be generated for a specific processor architecture, which requires the programmer to generate multiple executables for these architectures. Java uses an approach that allows a single executable to run on different processors.
 
 A programmer needs to write, compile, and debug code. **Integrated development environments (IDEs)** allow this programmer to do all of it in a single application.
+
+## Module 2
+### 2026-01-21
+#### Textbook notes
+Honestly, anything I'm already familiar and practiced with, I won't be taking notes of. Seems very redundant. Basic concepts like variables and assignments don't need to be mindlessly reiterated so I can prove my intellectual worth.
+
